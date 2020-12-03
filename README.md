@@ -13,7 +13,7 @@ go get vercel-vango.vercel.app/vango-example
 Testing:
 
 ```bash
-go test vercel-vango.vercel.app/vango-example
+go test -v vercel-vango.vercel.app/vango-example
 ```
 
 Build binary:
